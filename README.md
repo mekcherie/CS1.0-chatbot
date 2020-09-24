@@ -1,5 +1,5 @@
 # CS1.0 Therapy Chatbot
- This aere what I implmented on my project
+ This are what I implmented on my project
 # chatbot
 
 ## Project name is Therapy chatbot
